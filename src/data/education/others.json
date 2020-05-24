@@ -1,0 +1,37 @@
+{
+  "slug": "others",
+  "title": "Other achievements",
+  "description": "Courses, graduates, conferences and other certifications",
+  "items": [
+    {
+      "name": "Diplomat in Business Law",
+      "institution": "Universidad Rafael Belloso Chacin",
+      "degree": "Diploma with honors",
+      "score": "Graduated with Honors",
+      "period": {
+        "start": "march 2017",
+        "finish": "October 2017"
+      }
+    },
+    {
+      "name": "English as foreign language for adults",
+      "institution": "Centro Venezolano Americano del Zulia",
+      "degree": "Graduated with honors",
+      "score": "100/100",
+      "period": {
+        "start": "January 2018",
+        "finish": "November 2019"
+      }
+    },
+    {
+      "name": "JavaScript Course",
+      "institution": "Universidad Rafael Belloso Chacin",
+      "degree": "Certified",
+      "score": "20/20",
+      "period": {
+        "start": "May 2019",
+        "finish": "July 2019"
+      }
+    }
+  ]
+}

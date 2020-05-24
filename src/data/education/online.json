@@ -1,0 +1,27 @@
+{
+  "slug": "online",
+  "title": "Online education",
+  "description": "Finished courses, or degrees from online platforms",
+  "items": [
+    {
+      "name": "Curso de Programación Orientada a Objetos",
+      "institution": "Codigo Facilito",
+      "url": "https://codigofacilito.com/cursos/programacion-orientada-a-objetos"
+    },
+    {
+      "name": "Promesas en javaScript",
+      "institution": "Codigo Facilito",
+      "url": "https://codigofacilito.com/cursos/javascript-promises"
+    },
+    {
+      "name": "Curso de GraphQL con NodeJS",
+      "institution": "Codigo Facilito",
+      "url": "https://codigofacilito.com/cursos/graphql-nodejs"
+    },
+    {
+      "name": "Proyecto Avanzado de Desarrollo Web Frontend",
+      "institution": "Codigo Facilito",
+      "url": "https://codigofacilito.com/cursos/pagina-profesional"
+    }
+  ]
+}

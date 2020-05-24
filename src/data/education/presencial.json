@@ -1,0 +1,27 @@
+{
+  "slug": "academic",
+  "title": "Academic background",
+  "description": "Academic bakground, academic grades and institutions",
+  "items": [
+    {
+      "name": "Computer Engineering",
+      "institution": "Universidad Rafael Belloso Chacin",
+      "degree": "Bachelor of Science in Computer Engineering",
+      "score": "A-",
+      "period": {
+        "start": "2018",
+        "finish": "In progress"
+      }
+    },
+    {
+      "name": "Lawyer",
+      "institution": "Universidad Rafael Belloso Chacin",
+      "degree": "Lawyer of the republic of venezuela",
+      "score": "B+",
+      "period": {
+        "start": "2013",
+        "finish": "2018"
+      }
+    }
+  ]
+}

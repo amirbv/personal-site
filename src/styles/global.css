@@ -1,0 +1,50 @@
+@tailwind base;
+
+@tailwind components;
+
+@tailwind utilities;
+
+body{
+  @apply bg-gray-100;
+}
+
+.btn {
+  @apply text-white; 
+  @apply bg-indigo-500; 
+  @apply font-bold;
+  @apply rounded; 
+  @apply border-b-4; 
+  @apply border-indigo-700; 
+  @apply py-2; 
+  @apply px-4;
+}
+
+.repos-list {
+  @apply p-4;
+}
+
+.repos-list li {
+  @apply p-4;
+}
+
+.vertical-text {
+  writing-mode: vertical-rl;
+  text-orientation: upright;
+  @apply bg-teal-200;
+  @apply text-indigo-700;
+  @apply text-xs;
+  @apply p-2;
+  @apply inline-block;
+
+}
+
+@media (min-width: 640px) {
+  .repos-list {
+    columns: 2;
+    -moz-columns: 2;
+    column-rule: 1px solid gray;
+  }
+  .repos-list li {
+    break-inside: avoid-column;
+  }
+}
