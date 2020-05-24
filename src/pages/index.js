@@ -12,7 +12,7 @@ export default () => {
       <EducationNav />
       <Repos />
       <CodigoFacilito />
-      <Medium />
+      {/* <Medium /> */}
     </>
   );
 }
