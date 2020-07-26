@@ -7,11 +7,11 @@ export default () => {
         htmlFor="contact-content"
         className="block text-gray-600 text-sm font-bold mb-2"
       >Contact me and tell me your idea to make it true</label>
-      <a
+      {/* <a
         id="contact-content"
         href="mailto:amirbastidas@gmail.com"
         className="text-gray-600 text-xl font-bold"
-      >amirbastidas@gmail.com</a>
+      >amirbastidas@gmail.com</a> */}
       {/* <div className="flex flex-col md:flex-row shadow rounded bg-white border p-2">
         <textarea
           id="contact-content"
